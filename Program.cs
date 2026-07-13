@@ -11,6 +11,7 @@
 
             Console.WriteLine("Myth");
 
+            Console.WriteLine("Liang was here, too");
         }
     }
 }
