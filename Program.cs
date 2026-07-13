@@ -10,6 +10,8 @@
             Console.WriteLine("Hello, World! Franco was here");
 
             Console.WriteLine("Myth");
+
+            Console.WriteLine("Liang was here, too");
         }
     }
 }
